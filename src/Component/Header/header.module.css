@@ -1,0 +1,21 @@
+.container {
+  position: absolute;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-family: var(--font-family-main);
+  color: var(--color-main);
+  font-weight: 0;
+}
+
+h1 {
+  margin: auto;
+  margin-bottom: 50px;
+  font-size: var(--font-size-b);
+}
+
+.span {
+  font-size: var(--font-size-m);
+}

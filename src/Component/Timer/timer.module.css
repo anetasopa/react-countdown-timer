@@ -1,0 +1,21 @@
+.container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-size: 120px;
+  margin-top: 350px;
+  margin-left: 100px;
+}
+
+.small {
+  font-size: var(--font-size-s);
+}
+
+.container span {
+  font-family: var(--font-family-main);
+  color: var(--color);
+  font-weight: bold;
+  font-size: var(--font-size-b);
+}

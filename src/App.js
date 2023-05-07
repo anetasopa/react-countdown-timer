@@ -1,5 +1,8 @@
-import './App.css';
+import './styles/global.css';
+import Component from './Component/Component';
 
-export default function App() {
-  return <div>hello</div>;
+function App() {
+  return <Component />;
 }
+
+export default App;
