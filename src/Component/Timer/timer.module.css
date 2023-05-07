@@ -9,13 +9,13 @@
   margin-left: 100px;
 }
 
-.small {
-  font-size: var(--font-size-s);
-}
-
 .container span {
   font-family: var(--font-family-main);
   color: var(--color);
   font-weight: bold;
   font-size: var(--font-size-b);
+}
+
+.smaller {
+  font-size: var(--font-size-s);
 }
