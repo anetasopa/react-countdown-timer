@@ -32,4 +32,4 @@ This comment will display you the project under the `http://localhost:3000/` lin
 
 Meme Generator is based on `React` and `module.css`.
 
-You can also **view the code** [here](https://codesandbox.io/s/github/butterfly-123/react-meme-generator) on CodeSandbox.
+You can also **view the code** [here](https://codesandbox.io/s/github/butterfly-123/react-countdown-timer) on CodeSandbox.
